@@ -1,0 +1,1 @@
+This repo contains all research notes I have created over the last couple of months, along with a jupyter notebook for factor research template.
