@@ -4,7 +4,7 @@ This repository contains a growing collection of systematic research notes on pr
 
 Each factor is analyzed using a survivorship-bias-free Binance perpetuals universe, a clean in-sample / out-of-sample split, and a consistent cross-sectional long/short portfolio framework with realistic transaction-cost assumptions.
 
-A reusable Factor Research Template (Jupyter notebook) is included to standardize analysis across factors—covering signal construction, cohort segmentation, sensitivity testing, portfolio simulation, and robustness evaluation.
+A reusable Factor Research Template (Jupyter notebook) is included to standardize analysis across factors—covering signal construction, cohort segmentation, sensitivity testing, portfolio simulation, robustness evaluation and various optimization techniques.
 
 ---
 
