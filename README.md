@@ -9,4 +9,4 @@ Below is a list of the Factors researched.
 
 ![Alt text](images/price_momentum.png)
 
-Research Note : [Price Momentum](https://github.com/chickenopoulos/crypto-factors/blob/master/Price%Momentum.pdf)
+Research Note : [Price Momentum](https://github.com/chickenopoulos/crypto-factors/blob/main/research_notes/Price%20Momentum.pdf)
