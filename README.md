@@ -6,6 +6,8 @@ Each factor is analyzed using a survivorship-bias-free Binance perpetuals univer
 
 A reusable Factor Research Template (Jupyter notebook) is included to standardize analysis across factors—covering signal construction, cohort segmentation, sensitivity testing, portfolio simulation, and robustness evaluation.
 
+---
+
 ### Price Momentum
 
 - Definition : Simple N-day Price Momentum
