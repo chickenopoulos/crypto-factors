@@ -1,10 +1,14 @@
-This repo contains all research notes I have created, along with a jupyter notebook for factor research template.
+# Crypto Factor Research Series
 
-Below is a list of the Factors researched.
+This repository contains a growing collection of systematic research notes on predictive factors in cryptocurrency derivatives markets.
 
-## Price Momentum
+Each factor is analyzed using a survivorship-bias-free Binance perpetuals universe, a clean in-sample / out-of-sample split, and a consistent cross-sectional long/short portfolio framework with realistic transaction-cost assumptions.
 
-- Definition : Simple Price Momentum
+A reusable Factor Research Template (Jupyter notebook) is included to standardize analysis across factors—covering signal construction, cohort segmentation, sensitivity testing, portfolio simulation, and robustness evaluation.
+
+### Price Momentum
+
+- Definition : Simple N-day Price Momentum
 - Formula : price.pct_change(N)
 
 ![Alt text](images/price_momentum.png)
