@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import vectorbt as vbt
 from datetime import datetime, timedelta
+import matplotlib.pyplot as plt
 
 def get_factor_weights(
     factor: pd.DataFrame,
